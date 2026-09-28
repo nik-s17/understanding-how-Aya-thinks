@@ -28,7 +28,7 @@
 This research is part of the **Cohere Expedition: Aya Program**, an initiative to explore and better understand the capabilities, behaviors, and multilingual reasoning of the Aya model.  
 We investigate how Aya internally processes information across languages and whether English-centric reasoning is prevalent.
 
-You can read our [Research Ideas and Framework here](https://docs.google.com/document/d/1F5JfcpT1whHLKkwHnCnAWsi6gJ1dTF_rdRq1q8bH_js/edit?usp=sharing) and [Slides](https://docs.google.com/presentation/d/1o1uNmBi6_8UBuPOvolVvwMJ8cr2A4cgcjIcx17PxX1E/edit?usp=sharing).
+You can read our [Research Ideas and Framework here](https://docs.google.com/document/d/1F5JfcpT1whHLKkwHnCnAWsi6gJ1dTF_rdRq1q8bH_js/edit?usp=sharing)
 
 ---
 
